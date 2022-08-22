@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Thais\OneDrive - Fatec Centro Paula Souza\FATEC\5 Semestre 08-2022\Laboratório de Banco de Dados\Tarefas\Introducao Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1191599881.index
+\ExemploServletJSTL\src\main\java
